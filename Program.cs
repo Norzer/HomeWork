@@ -34,3 +34,5 @@ string[] arr1 = new string[5] {"ki", "dkjgkjdfgh", "helloworld", "345", "mir"};
 string[] arr2 = new string[arr1.Length];
 //CreateAndFillArray(s);
 //string[] arr2 = new string[] {};
+ArrayComparison(arr1, arr2);
+PrintArray(arr2);
